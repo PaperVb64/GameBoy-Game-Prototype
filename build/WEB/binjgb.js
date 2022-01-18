@@ -19,3 +19,4 @@ else if (typeof define === 'function' && define['amd'])
   define([], function() { return Binjgb; });
 else if (typeof exports === 'object')
   exports["Binjgb"] = Binjgb;
+ 
